@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vittoriax1
-- 👀 I’m interested in ... supplementing my coursework
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... supplementing my coursework and trying out new things.
+- 🌱 I’m currently learning ... Python, SQL and other things.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... vittoriax1@gmail.com
 
